@@ -4,7 +4,7 @@ import sys
 import webbrowser
 import time
 
-##please "按照順序 cosole => login => choose => past => message => finish"
+##please "use them in the order cosole => login => choose => past => message => finish"
 
 #interface variable
 name=""  
@@ -39,7 +39,7 @@ if name =="console":
     webbrowser.open_new_tab("https://dashboard.heroku.com/apps/angleline-master/logs")
     webbrowser.open_new_tab("https://dashboard.heroku.com/apps/angleline-hall/logs")
     webbrowser.open_new_tab("https://dashboard.heroku.com/apps/informationdesk/logs")
-    print("打開的分頁依序為：我的小天使、我的小主人、大祭司講堂、詢問站的伺服器後台")
+    
 
 elif name == "login":
     write_package_json("idle_angle.js")

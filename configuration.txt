@@ -2,3 +2,4 @@
 2.https://devcenter.heroku.com/articles/heroku-cli#download-and-install (Heroku cli)
 3.https://www.python.org/ftp/python/3.6.6/python-3.6.6-amd64-webinstall.exe (Python)
 4.https://git-scm.com/download/win (git)
+#print("打開的分頁依序為：我的小天使、我的小主人、大祭司講堂、詢問站的伺服器後台")
